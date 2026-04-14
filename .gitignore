@@ -1,0 +1,26 @@
+# 本地开发工具
+.qoder/
+
+# macOS 系统文件
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 其他项目文件
+CODING_STYLE.md
+QwenPaw技术方案报告.md
